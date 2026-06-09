@@ -1,0 +1,6 @@
+{
+  "name": "David International Safety Services",
+  "description": "Safety Management Services and Construction projects for Filipino Houses, Business establishments, Condominiums, and Offices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
