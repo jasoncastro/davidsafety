@@ -42,7 +42,7 @@ export const servicesData: Service[] = [
 export const portfolioData: PortfolioItem[] = [
   {
     id: '1',
-    title: 'Makati Office Tower Renovation',
+    title: 'Makati Office Renovation',
     category: 'Renovation',
     imageUrl: '../assets/images/project-1.png'
   },
