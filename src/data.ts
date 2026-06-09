@@ -44,7 +44,7 @@ export const portfolioData: PortfolioItem[] = [
     id: '1',
     title: 'Makati Office Tower Renovation',
     category: 'Renovation',
-    imageUrl: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&q=80&w=800'
+    imageUrl: '../assets/images/project-1.png'
   },
   {
     id: '2',
