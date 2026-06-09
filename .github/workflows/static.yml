@@ -43,6 +43,8 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: ./dist
+          name: github-pages  # Explicitly specify the artifact name
+          
   # Single deploy job since we're just deploying
   deploy:
     environment:
