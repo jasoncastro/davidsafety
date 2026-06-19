@@ -1,0 +1,6 @@
+name: Deploy TypeScript Site
+on:
+  push:
+    branches: ["main"]
+# ... (permissions, steps for setup, build (npm run build), 
+# and deployment using actions/deploy-pages@v4)
