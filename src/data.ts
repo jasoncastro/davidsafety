@@ -44,7 +44,7 @@ export const portfolioData: PortfolioItem[] = [
     id: '1',
     title: 'Makati Office Renovation',
     category: 'Renovation',
-    imageUrl: '../davidsafety/images/proj-1.png'
+    imageUrl: 'https://jasoncastro.github.io/images/dproj-1.png'
   },
   {
     id: '2',
@@ -56,7 +56,7 @@ export const portfolioData: PortfolioItem[] = [
     id: '3',
     title: 'Safety Audit: Cebu Tech Park',
     category: 'Safety',
-    imageUrl: '../davidsafety/images/proj-3.png'
+    imageUrl: 'https://jasoncastro.github.io/images/dproj-2.png'
   },
   {
     id: '4',
@@ -68,7 +68,7 @@ export const portfolioData: PortfolioItem[] = [
     id: '5',
     title: 'High-Rise Scaffolding Setup',
     category: 'Safety',
-    imageUrl: '../davidsafety/images/proj-5.png'
+    imageUrl: 'https://jasoncastro.github.io/images/dproj-3.png'
   },
   {
     id: '6',
