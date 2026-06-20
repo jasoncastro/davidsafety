@@ -21,7 +21,7 @@ export function Hero() {
             className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-brand-base border border-brand-light/20 mb-8"
           >
             <span className="w-2 h-2 rounded-full bg-brand-primary animate-pulse"></span>
-            <span className="text-sm font-medium text-brand-light text-opacity-90">ISO Certified Safety Standards</span>
+            <span className="text-sm font-medium text-brand-light text-opacity-90">COSH (Construction Occupational Safety and Health)</span>
           </motion.div>
 
           <motion.h1
