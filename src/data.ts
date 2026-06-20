@@ -44,7 +44,7 @@ export const portfolioData: PortfolioItem[] = [
     id: '1',
     title: 'Makati Office Renovation',
     category: 'Renovation',
-    imageUrl: '../davidsafety/assets/images/project-1.png'
+    imageUrl: '../assets/images/project-1.png'
   },
   {
     id: '2',
