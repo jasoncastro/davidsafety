@@ -56,7 +56,7 @@ export const portfolioData: PortfolioItem[] = [
     id: '3',
     title: 'Safety Audit: Cebu Tech Park',
     category: 'Safety',
-    imageUrl: 'https://jasoncastro.github.io/images/dproj-2.png'
+    imageUrl: 'https://jasoncastro.github.io/images/dproj-3.png'
   },
   {
     id: '4',
@@ -68,7 +68,7 @@ export const portfolioData: PortfolioItem[] = [
     id: '5',
     title: 'High-Rise Scaffolding Setup',
     category: 'Safety',
-    imageUrl: 'https://jasoncastro.github.io/images/dproj-3.png'
+    imageUrl: 'https://jasoncastro.github.io/images/dproj-5.png'
   },
   {
     id: '6',
